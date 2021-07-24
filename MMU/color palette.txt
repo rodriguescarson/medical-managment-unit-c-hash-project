@@ -1,0 +1,7 @@
+241,246,249 white
+150,209,205 ligth teal
+89,134,173 light blue
+47,92,131 dark blue
+159,191,216 blue
+79,160,161 dark teal
+ 

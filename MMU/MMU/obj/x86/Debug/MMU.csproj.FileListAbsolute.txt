@@ -1,0 +1,15 @@
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.exe
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.pdb
+D:\MMU-20210720T100037Z-001\MMU\MMU\bin\Debug\MMU.exe
+D:\MMU-20210720T100037Z-001\MMU\MMU\bin\Debug\MMU.pdb
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.csprojResolveAssemblyReference.cache
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.create_acc.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.Doctor.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.Form1.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.graph.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.Menu.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.Properties.Resources.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.readings.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.viewtable.resources
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.csproj.GenerateResource.Cache
+D:\MMU-20210720T100037Z-001\MMU\MMU\obj\x86\Debug\MMU.contact.resources
